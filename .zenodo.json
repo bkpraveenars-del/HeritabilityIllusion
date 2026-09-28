@@ -1,0 +1,16 @@
+{
+  "title": "Heritability Illusion: code and results for 'Single-environment heritability overstates selection response: a 695-environment calibration across ten crops'",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "R code and derived results reproducing all analyses and figures of the manuscript. The code reanalyses 19 replicated multi-environment trial series from the R package agridat and plot-level grain yield from four CIMMYT Elite Spring Wheat Yield Trials (26th, 27th, 29th, 38th ESWYT). For each it compares single-environment broad-sense heritability with the heritability of a one-environment test once genotype x environment variance is removed, runs a leave-one-environment-out test of realised versus predicted selection gain, and checks the deflation rule H2/(1+rho). The CIMMYT raw data are not redistributed; download instructions are in README.md.",
+  "creators": [
+    {
+      "name": "Kumar, Praveen",
+      "affiliation": "Department of Genetics and Plant Breeding, College of Agriculture, Agriculture University Jodhpur, Rajasthan, India",
+      "orcid": "0000-0002-7736-5986"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["heritability", "genotype by environment interaction", "genetic advance", "selection response", "multi-environment trials", "wheat", "plant breeding", "R"],
+  "access_right": "open"
+}

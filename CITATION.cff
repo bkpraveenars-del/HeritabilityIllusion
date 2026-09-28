@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Heritability Illusion: code and results for 'Single-environment heritability overstates selection response: a 695-environment calibration across ten crops'"
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+authors:
+  - family-names: Kumar
+    given-names: Praveen
+    orcid: "https://orcid.org/0000-0002-7736-5986"
+    affiliation: "Department of Genetics and Plant Breeding, College of Agriculture, Agriculture University Jodhpur, Rajasthan, India"
+keywords:
+  - heritability
+  - genotype by environment interaction
+  - genetic advance
+  - selection response
+  - multi-environment trials
+  - wheat
