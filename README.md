@@ -4,7 +4,7 @@
 
 Reproducible R code for the manuscript:
 
-> Kumar P. *Single-environment heritability overstates selection response: a 695-environment calibration across ten crops.* (submitted to Theoretical and Applied Genetics)
+> Kumar P. *Single-environment heritability overstates selection response: a 695-environment calibration across ten crops.* (to submit to the journal)
 
 ## Zenodo
 
